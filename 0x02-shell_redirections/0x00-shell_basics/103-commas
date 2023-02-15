@@ -1,0 +1,6 @@
+#!/bin/bash
+ls -m
+ls -a
+ls -l
+sort -n
+
